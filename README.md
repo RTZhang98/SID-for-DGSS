@@ -1,6 +1,6 @@
 # 🌐 Learning in Diversity: Empowering Domain Generalized Semantic Segmentation with Style Injection
 
-Official implementation of **“Learning in Diversity: Empowering Domain Generalized Semantic Segmentation with Style Injection”**, accepted to **IEEE Transactions on Multimedia (TMM)**, 2024.
+Official implementation of **“Learning in Diversity: Empowering Domain Generalized Semantic Segmentation with Style Injection”**, accepted to **IEEE Transactions on Multimedia (TMM)**, 2025.
 
 ---
 
