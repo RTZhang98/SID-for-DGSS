@@ -10,8 +10,6 @@ Official implementation of **“Learning in Diversity: Empowering Domain General
 > Runtong Zhang, Fanman Meng, Haoran Wei,  Qingbo Wu, Linfeng Xu, Hongliang Li  
 > IEEE Transactions on Multimedia, 2025  
 > <img src="figures/overview.png" style="width:70%;">
-> 
-> [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
 
 ---
 
