@@ -88,7 +88,7 @@ SID/
 
 ### **Training**
 
-To train SID on the source dataset (e.g., Cityscapes):
+To train SID on the source dataset:
 
 ```bash
 python tools/SID_script/train.py --config configs/SID/SID_dinov2_mask2former_512x512_bs1x4.py --work-dir work_dirs/train_log
