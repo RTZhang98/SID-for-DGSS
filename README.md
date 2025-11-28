@@ -52,7 +52,7 @@ SID/
 └── ...
 ```
 Additionally, the **styleset** used in our paper can be downloaded from the following OneDrive link:  
-👉 [Styleset Download](YOUR_ONEDRIVE_LINK_HERE)
+👉 [Styleset Download](https://1drv.ms/u/c/ab60133cf00c7344/EbvRCeNrbqhBsUwT-vT1FcsBPftvau0rNe6HWe2lKPPLLA?e=PbtzJb)
 
 You may modify the dataset path in the configuration files as needed.
 
@@ -62,15 +62,15 @@ data_root = './configs/_base_/datasets/'
 
 ---
 
-## 🧩 Pretraining Weights
+## 🧩 Model Weights
 
 We provide the pretrained backbone and the final SID model:
 
 | Model | Generalization Setting | Download |
 |-------|---------|----------|
-| Backbone Pretrained (DinoV2) | - | [Link](#) |
-| Ours | GTAV → BDD100K, Cityscapes, Mapillary | [Link](#) |
-| Ours | Synthia → BDD100K, Cityscapes, Mapillary  | [Link](#) |
+| Backbone Pretrained (DinoV2) | - | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EfjkJ-1sL0ZAuaDvEuGXiY8BKMBvVQg-P5VT3hy8XCacxA?e=RkUpAi) |
+| Ours | GTAV → BDD100K, Cityscapes, Mapillary | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EeOyz0uB_TxHiiMKLqu32nIBbvc1_cMxz0wo54o5yOMJ8Q?e=uhJEC3) |
+| Ours | Synthia → BDD100K, Cityscapes, Mapillary  | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EfbOpRt-W4BAggBb4ah1mqIBiN5wZScegV5Db7HkxCrsfQ?e=O95OBa) |
 
 Place them under:
 
