@@ -69,8 +69,8 @@ We provide the pretrained backbone and the final SID model:
 | Model | Generalization Setting | Download |
 |-------|---------|----------|
 | Backbone Pretrained (DinoV2) | - | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EfjkJ-1sL0ZAuaDvEuGXiY8BKMBvVQg-P5VT3hy8XCacxA?e=RkUpAi) |
-| Ours | GTAV → BDD100K, Cityscapes, Mapillary | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EeOyz0uB_TxHiiMKLqu32nIBbvc1_cMxz0wo54o5yOMJ8Q?e=uhJEC3) |
-| Ours | Synthia → BDD100K, Cityscapes, Mapillary  | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EfbOpRt-W4BAggBb4ah1mqIBiN5wZScegV5Db7HkxCrsfQ?e=O95OBa) |
+| SID | GTAV → BDD100K, Cityscapes, Mapillary | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EeOyz0uB_TxHiiMKLqu32nIBbvc1_cMxz0wo54o5yOMJ8Q?e=uhJEC3) |
+| SID | Synthia → BDD100K, Cityscapes, Mapillary  | [Link](https://1drv.ms/u/c/ab60133cf00c7344/EfbOpRt-W4BAggBb4ah1mqIBiN5wZScegV5Db7HkxCrsfQ?e=O95OBa) |
 
 Place them under:
 
